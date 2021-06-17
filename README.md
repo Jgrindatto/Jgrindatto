@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jgrindatto
+- 👀 I’m interested in cross platform product management
+- 🌱 I’m currently learning F#
+- 💞️ I’m looking to collaborate on and neat F# projects
+- 📫 How to reach me joshuagrindatto@gmail.com
